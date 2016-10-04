@@ -1,0 +1,297 @@
+[29/08/2016 16:55:01.359] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6227897
+         /////////                /////////////               Hora....: 16:55:00
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........(          ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 16:55:01.405] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6227897
+         /////////                /////////////               Hora....: 16:55:00
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........( TR580524 ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 16:55:01.811] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6227897 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    16:55:00 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( _________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 16:55:01.811] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6227897 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    16:55:00 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( 4________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 16:55:02.404] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  16:55:01                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 16:55:02.419] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  16:55:01                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ACB_____________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 16:55:02.794] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+   29/08/2016         SAC - SISTEMA DE ATENDIMENTO A CLIENTE              A.C.B 
+ -----------------           IDENTIFICACAO DO CLIENTE            ---------------
+  16:55:01                          FILIAL GO                          CGACB00A 
+                             MERCADO                                            
+  TERM/CONT __________      DDD ____ CAT     USO     SIT                        
+       TIPO   PRI   TR-CHV                CONTRATO =>            ORIG           
+       PROPENSAO CHURN:                              GECO:                      
+  TITULAR                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  USUARIO                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  PONTO REFERENCIA                                      NUM CSA                 
+  FIG. 0                                                                        
+  OPCAO LISTA   COD-CLASSIFICACAO               CARTAO CREDITO                  
+  BD           OS          OBS TERMINAL                                         
+            COMPLEMENTACAO DADOS TUP/GSM (S/N) ( N ) ENVIO GVT:   DATA:         
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD _______________  HELP  MENU  VOLTA CONT  BD    OS    DTERM DFAC  DAPA  FIM 
+
+]
+[29/08/2016 16:55:02.794] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+   29/08/2016         SAC - SISTEMA DE ATENDIMENTO A CLIENTE              A.C.B 
+ -----------------           IDENTIFICACAO DO CLIENTE            ---------------
+  16:55:01                          FILIAL GO                          CGACB00A 
+                             MERCADO                                            
+  TERM/CONT 33883079__      DDD ____ CAT     USO     SIT                        
+       TIPO   PRI   TR-CHV                CONTRATO =>            ORIG           
+       PROPENSAO CHURN:                              GECO:                      
+  TITULAR                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  USUARIO                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  PONTO REFERENCIA                                      NUM CSA                 
+  FIG. 0                                                                        
+  OPCAO LISTA   COD-CLASSIFICACAO               CARTAO CREDITO                  
+  BD           OS          OBS TERMINAL                                         
+            COMPLEMENTACAO DADOS TUP/GSM (S/N) ( N ) ENVIO GVT:   DATA:         
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD _______________  HELP  MENU  VOLTA CONT  BD    OS    DTERM DFAC  DAPA  FIM 
+
+]
+[29/08/2016 16:55:03.204] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+   29/08/2016         SAC - SISTEMA DE ATENDIMENTO A CLIENTE              A.C.B 
+ -----------------           IDENTIFICACAO DO CLIENTE            ---------------
+  16:55:02                          FILIAL GO                          CGACB00A 
+                             MERCADO M05 MASSA R                                
+  TERM/CONT 33883079__ ANS  DDD 0062 CAT 11  USO R   SIT 2 03082010 INSTALADO   
+       TIPO 0 PRI C TR-CHV                CONTRATO => 1131774580 ORIG 1131774580
+       PROPENSAO CHURN:                              GECO:                      
+  TITULAR JOAQUIM APARECIDO BATISTA                                     TIPO ASG
+          NRC 260841268000002 CPF/CGC F 53042816168     DOC RG  2874757 SSP-GO  
+          DTA-NASC 31/01/1970 NAC BRA EST-CIV C PROF TAP SEXO M SEG AVANCADO    
+          END                                                                   
+  USUARIO                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  PONTO REFERENCIA                                      NUM CSA                 
+  FIG. 0 JOAQUIM APARECIDO BATISTA                                              
+  OPCAO LISTA N COD-CLASSIFICACAO               CARTAO CREDITO                  
+  BD           OS          OBS TERMINAL CAMPANHA MIGRACAO AUTOMATICA            
+            COMPLEMENTACAO DADOS TUP/GSM (S/N) ( N ) ENVIO GVT:   DATA:         
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD _______________  PLN   MENU  VOLTA CONT  BD    OS    DTERM DFAC  DAPA  FIM 
+
+]
+[29/08/2016 16:55:03.579] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+   29/08/2016         SAC - SISTEMA DE ATENDIMENTO A CLIENTE              A.C.B 
+ -----------------           IDENTIFICACAO DO CLIENTE            ---------------
+  16:55:02                          FILIAL GO                          CGACB00A 
+                             MERCADO M05 MASSA R                                
+  TERM/CONT 33883079__ ANS  DDD 0062 CAT 11  USO R   SIT 2 03082010 INSTALADO   
+       TIPO 0 PRI C TR-CHV                CONTRATO => 1131774580 ORIG 1131774580
+       PROPENSAO CHURN:                              GECO:                      
+  TITULAR JOAQUIM APARECIDO BATISTA                                     TIPO ASG
+          NRC 260841268000002 CPF/CGC F 53042816168     DOC RG  2874757 SSP-GO  
+                                       ANS 33883079                             
+                                                                                
+  USUARIO                         TELEFONES PARA CONTATO              CGS1190A  
+               RESIDENCIAL                                                      
+                NOME JOAQUIM_TT__________  DDD 0062  FONE 991129580 RAMAL ____  
+                                                                                
+  PONTO RE     COMERCIAL                                                        
+  FIG. 0 J      NOME JOAQUIM_____________  DDD 0062  FONE 993970799 RAMAL ____  
+  OPCAO LI                                                                      
+  BD           CELULAR                                                          
+                NOME JOAQUIM_____________  DDD 0062  FONE 33883079_             
+ ---------                                                                      
+ OPCAO         PF3 = VOLTA                                                      
+ CMD _____                                                                      
+
+]
+[29/08/2016 16:55:15.318] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+   29/08/2016         SAC - SISTEMA DE ATENDIMENTO A CLIENTE              A.C.B 
+ -----------------           IDENTIFICACAO DO CLIENTE            ---------------
+  16:55:14                          FILIAL GO                          CGACB00A 
+                             MERCADO M05 MASSA R                                
+  TERM/CONT 33883079__ ANS  DDD 0062 CAT 11  USO R   SIT 2 03082010 INSTALADO   
+       TIPO 0 PRI C TR-CHV                CONTRATO => 1131774580 ORIG 1131774580
+       PROPENSAO CHURN:                              GECO:                      
+  TITULAR JOAQUIM APARECIDO BATISTA                                     TIPO ASG
+          NRC 260841268000002 CPF/CGC F 53042816168     DOC RG  2874757 SSP-GO  
+          DTA-NASC 31/01/1970 NAC BRA EST-CIV C PROF TAP SEXO M SEG AVANCADO    
+          END                                                                   
+  USUARIO                                                               TIPO    
+          NRC                 CPF/CGC                   DOC                     
+          DTA-NASC            NAC     EST-CIV   PROF     SEXO   SEG             
+          END                                                                   
+  PONTO REFERENCIA                                      NUM CSA                 
+  FIG. 0 JOAQUIM APARECIDO BATISTA                                              
+  OPCAO LISTA N COD-CLASSIFICACAO               CARTAO CREDITO                  
+  BD           OS          OBS TERMINAL CAMPANHA MIGRACAO AUTOMATICA            
+            COMPLEMENTACAO DADOS TUP/GSM (S/N) ( N ) ENVIO GVT:   DATA:         
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD _______________  PLN   MENU  VOLTA CONT  BD    OS    DTERM DFAC  DAPA  FIM 
+
+]

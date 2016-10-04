@@ -1,0 +1,621 @@
+[29/08/2016 11:58:23.153] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6226746
+         /////////                /////////////               Hora....: 11:58:22
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........(          ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 11:58:23.246] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6226746
+         /////////                /////////////               Hora....: 11:58:22
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........( TR580524 ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 11:58:23.660] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6226746 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    11:58:22 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( _________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 11:58:23.675] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6226746 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    11:58:22 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( 4________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 11:58:24.226] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  11:58:23                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:24.226] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  11:58:23                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD IG______________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:24.647] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:23                                                             CGIG000A 
+                                                                                
+                                    TOTAL DE DOCUMENTOS ABERTOS                 
+                                                                                
+                                    SERVICO             REPAROS                 
+                                                                                
+    0026 TELEGOIAS BRASIL TEL        20.894               1.907                 
+                                                                                
+                                                                                
+                                                                                
+       DETALHA POR ===> EMPREITEIRA ( _ )   EMPREITEIRA E CR/ESTACAO ( _ )      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:24.663] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:23                                                             CGIG000A 
+                                                                                
+                                    TOTAL DE DOCUMENTOS ABERTOS                 
+                                                                                
+                                    SERVICO             REPAROS                 
+                                                                                
+    0026 TELEGOIAS BRASIL TEL        20.894               1.907                 
+                                                                                
+                                                                                
+                                                                                
+       DETALHA POR ===> EMPREITEIRA ( x )   EMPREITEIRA E CR/ESTACAO ( _ )      
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:25.053] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:23                DETALHAMENTO POR EMPREITEIRAS                CGIG001A 
+                                         ---- DOCUMENTOS  ABERTOS ----          
+                      OPC   EMPREITEIRA   SERVICOS             REPAROS          
+                     ( _ )      0026        15.163                 139          
+                     ( _ )      0027             1                              
+                     ( _ )      0029         4.284               1.470          
+                     ( _ )      0034           420                 270          
+                     ( _ )      0050           837                  26          
+                     ( _ )      0051           189                   2          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+           0026 TELEGOIAS BRASIL TEL        20.894               1.907          
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                   -PAG  +PAG        FIM 
+
+]
+[29/08/2016 11:58:25.069] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:23                DETALHAMENTO POR EMPREITEIRAS                CGIG001A 
+                                         ---- DOCUMENTOS  ABERTOS ----          
+                      OPC   EMPREITEIRA   SERVICOS             REPAROS          
+                     ( X )      0026        15.163                 139          
+                     ( _ )      0027             1                              
+                     ( _ )      0029         4.284               1.470          
+                     ( _ )      0034           420                 270          
+                     ( _ )      0050           837                  26          
+                     ( _ )      0051           189                   2          
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+           0026 TELEGOIAS BRASIL TEL        20.894               1.907          
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                   -PAG  +PAG        FIM 
+
+]
+[29/08/2016 11:58:25.490] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:24                                                             CGIG001B 
+  EMPREITEIRA 0026   PESQUISA => DATA/HORA PROMESSA 29 08 2016 11  UNIDADE __   
+                                                                                
+    DESCRICAO SERVICOS             TOT DOC ABERTOS           TOT DA PESQUISA    
+    INSTALACAO/REINSTALACAO         ( _ )     5.941          ( _ )       165    
+    RETINSMUD                       ( _ )       991          ( _ )        29    
+    RETINSMUDSUB                    ( _ )         4                             
+    RETINSMUDNUM                    ( _ )       670          ( _ )        23    
+    SUBNUM                          ( _ )        17                             
+    RETIRADA                        ( _ )       632          ( _ )       114    
+    SERVICOS DIVERSOS               ( _ )     6.905          ( _ )       478    
+    SERVICOS ORCAMENTO              ( _ )         3                             
+    TODOS OS MACRO SERVICOS         ( _ )    15.163          ( _ )       809    
+                                                                                
+    REPAROS                         ( _ )       138                             
+                                                                                
+    TODOS MACROS/REPAROS            ( _ )    15.301          ( _ )       809    
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:25.505] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:24                                                             CGIG001B 
+  EMPREITEIRA 0026   PESQUISA => DATA/HORA PROMESSA 29 08 2016 11  UNIDADE __   
+                                                                                
+    DESCRICAO SERVICOS             TOT DOC ABERTOS           TOT DA PESQUISA    
+    INSTALACAO/REINSTALACAO         ( _ )     5.941          ( _ )       165    
+    RETINSMUD                       ( _ )       991          ( _ )        29    
+    RETINSMUDSUB                    ( _ )         4                             
+    RETINSMUDNUM                    ( _ )       670          ( _ )        23    
+    SUBNUM                          ( _ )        17                             
+    RETIRADA                        ( _ )       632          ( _ )       114    
+    SERVICOS DIVERSOS               ( _ )     6.905          ( _ )       478    
+    SERVICOS ORCAMENTO              ( _ )         3                             
+    TODOS OS MACRO SERVICOS         ( _ )    15.163          ( _ )       809    
+                                                                                
+    REPAROS                         ( x )       138                             
+                                                                                
+    TODOS MACROS/REPAROS            ( _ )    15.301          ( _ )       809    
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:25.895] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:24                  0026 TELEGOIAS BRASIL TEL                  CGS1310A 
+  EMPREITEIRA 0026 DESCRICAO REPAROS                   TOTAL DOCUMENTOS     138 
+   QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O 
+       23 DE _       1 EV _       6 QF _      17 QR _      88 RF _       1 TB _ 
+        2 TP _                                                                  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:25.895] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:24                  0026 TELEGOIAS BRASIL TEL                  CGS1310A 
+  EMPREITEIRA 0026 DESCRICAO REPAROS                   TOTAL DOCUMENTOS     138 
+   QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O  QTDE/UNID/O 
+       23 DE _       1 EV _       6 QF _      17 QR _      88 RF x       1 TB _ 
+        2 TP _                                                                  
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 11:58:26.301] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:25                                                             CGS1310B 
+  EMPREITEIRA 0026  MACRO REPAROS                                 TOTAL      88 
+                    UNIDADE RF = DESIGNACAO FACILIDADE PORTA ADSL               
+  O LOC-TEL-DE     LOC-TEL-PA   CMR  ARM. D D/H ABERTURA  D/H PROMESSA   TEMPO  
+  _ GNA 32551713                ADSL ***    28082016 2315 31082016 2359    12:42
+  _ IDR 35471008                ADSL C1     28082016 2323 30082016 1200    12:34
+  _ GNE 33538603                ADSL 11     29082016 0736 30082016 0736     4:22
+  _ RVD 36021705                ADSL 32     29082016 0738 30082016 0738     4:20
+  _ PMJ 32133023                ADSL 11     29082016 0758 30082016 0758     4:00
+  _ DRE 33581271                ADSL C2     29082016 0825 30082016 1200     3:33
+  _ QNP 36152308                ADSL C1     29082016 0831 30082016 0831     3:27
+  _ PIR 34611995                ADSL 12     29082016 0848 30082016 0847     3:10
+  _ ARN 34155081                ADSL 11     29082016 0852 30082016 0852     3:06
+  _ ARN 34142830                ADSL 14     29082016 0859 30082016 0857     2:59
+  _ PMJ 32256862                ADSL 29     29082016 0859 30082016 0859     2:59
+  _ PMJ 32132731                ADSL 23     29082016 0859 29082016 1659     2:59
+  _ GNA 35788526                ADSL 34     29082016 0904 30082016 1200     2:54
+  _ GNA 35818568                ADSL 17     29082016 0905 30082016 0905     2:53
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA       INIC              +PAG        FIM 
+
+]
+[29/08/2016 11:58:26.317] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:25                                                             CGS1310B 
+  EMPREITEIRA 0026  MACRO REPAROS                                 TOTAL      88 
+                    UNIDADE RF = DESIGNACAO FACILIDADE PORTA ADSL               
+  O LOC-TEL-DE     LOC-TEL-PA   CMR  ARM. D D/H ABERTURA  D/H PROMESSA   TEMPO  
+  X GNA 32551713                ADSL ***    28082016 2315 31082016 2359    12:42
+  _ IDR 35471008                ADSL C1     28082016 2323 30082016 1200    12:34
+  _ GNE 33538603                ADSL 11     29082016 0736 30082016 0736     4:22
+  _ RVD 36021705                ADSL 32     29082016 0738 30082016 0738     4:20
+  _ PMJ 32133023                ADSL 11     29082016 0758 30082016 0758     4:00
+  _ DRE 33581271                ADSL C2     29082016 0825 30082016 1200     3:33
+  _ QNP 36152308                ADSL C1     29082016 0831 30082016 0831     3:27
+  _ PIR 34611995                ADSL 12     29082016 0848 30082016 0847     3:10
+  _ ARN 34155081                ADSL 11     29082016 0852 30082016 0852     3:06
+  _ ARN 34142830                ADSL 14     29082016 0859 30082016 0857     2:59
+  _ PMJ 32256862                ADSL 29     29082016 0859 30082016 0859     2:59
+  _ PMJ 32132731                ADSL 23     29082016 0859 29082016 1659     2:59
+  _ GNA 35788526                ADSL 34     29082016 0904 30082016 1200     2:54
+  _ GNA 35818568                ADSL 17     29082016 0905 30082016 0905     2:53
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA       INIC              +PAG        FIM 
+
+]
+[29/08/2016 11:58:26.706] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:25            HISTORICO DE BD  31387925  ABERTO                CGS0371A 
+ LOCALIDADE-TERMINAL GNA  32551713   CONTRATO 1003533768           OCOR 1  / 1  
+ CLIENTE JOSE DO CARMO                                         CLIENTE-VIP NAO  
+ SIT 2 CAT 11 USO R   PRI C TIPO 0 TR-CHV                CATEG CATFRA MANTEN    
+ BUSCA             ESTACAO SAF  CAT-LP    INF-TRANS        VEL-TRANS            
+ DATA/HORA SOLICITACAO 28082016 2315  PERIODO   31082016 0800 CLIENTE-AVISADO   
+ APRAZADO S   PROMESSA 31082016 2359  ENCERRADO                     INDICADOR N 
+ STATUS-TERMINAL RE                                   OPERADORA                 
+ CLASSE INICIAL              N-INICIAL                EMPREITEIRA               
+ ORIGEM SEM CONTATO            DATA/HORA MUDANCA ORIGEM                         
+ REPARO-SOLICITADO SEM CONECTIVIDADE                        - 1 5 10 1 ADSL     
+ RESULTADO EXAME 1                                          -                   
+ RESULTADO EXAME 2                                          -                   
+ REPARO-EFETUADO                                            - 1                 
+ SUBSEQUENTE:      EX: RESIST. A-B:        CAPACIT. A-B:        TENSAO A-B:     
+ ARM ***   CAUSA-COMUM                EMPREITEIRA 0026 GERENCIA-EMPREITEIRA NAO 
+ DESPACHADO               BAIXA               IRLA           SOLIC              
+ OBS                                                                            
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA       OBS   DEF   CONEX ENC   APRAZ FIM 
+
+]
+[29/08/2016 11:58:27.101] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:25            HISTORICO DE BD  31387925  ABERTO                CGS0371A 
+ LOCALIDADE-TERMINAL GNA  32551713   CONTRATO 1003533768           OCOR 1  / 1  
+ CLIENTE JOSE DO CARMO                                         CLIENTE-VIP NAO  
+ SIT 2 CAT 11 USO R   PRI C TIPO 0 TR-CHV                CATEG CATFRA MANTEN    
+ BUSCA             ESTACAO SAF  CAT-LP    INF-TRANS        VEL-TRANS            
+ DATA/HORA SOLICITAC                                                   VISADO   
+ APRAZADO S   PROMES                                                   ICADOR N 
+ STATUS-TERMINAL RE             << INICIA PELA >>                               
+ CLASSE INICIAL                                                                 
+ ORIGEM SEM CONTATO             OBSERVACAO ASSINANTE  _                         
+ REPARO-SOLICITADO S                                                   ADSL     
+ RESULTADO EXAME 1              OBSERVACAO UNIDADE    _                         
+ RESULTADO EXAME 2                                                              
+ REPARO-EFETUADO                ENTREVISTA            _                         
+ SUBSEQUENTE:      E                                                   A-B:     
+ ARM ***   CAUSA-COM                                                   EIRA NAO 
+ DESPACHADO                CLIENTE CIENTE TAXA VISITA ( NAO )                   
+ OBS                       CLIENTE SOLICITA CREDITO   ( NAO )                   
+ -------------------                                                    TR580524
+                       PF3 = RETORNA                                   F9---PF10
+ CMD _______________                                                   PRAZ FIM 
+
+]
+[29/08/2016 11:58:27.117] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:25            HISTORICO DE BD  31387925  ABERTO                CGS0371A 
+ LOCALIDADE-TERMINAL GNA  32551713   CONTRATO 1003533768           OCOR 1  / 1  
+ CLIENTE JOSE DO CARMO                                         CLIENTE-VIP NAO  
+ SIT 2 CAT 11 USO R   PRI C TIPO 0 TR-CHV                CATEG CATFRA MANTEN    
+ BUSCA             ESTACAO SAF  CAT-LP    INF-TRANS        VEL-TRANS            
+ DATA/HORA SOLICITAC                                                   VISADO   
+ APRAZADO S   PROMES                                                   ICADOR N 
+ STATUS-TERMINAL RE             << INICIA PELA >>                               
+ CLASSE INICIAL                                                                 
+ ORIGEM SEM CONTATO             OBSERVACAO ASSINANTE  x                         
+ REPARO-SOLICITADO S                                                   ADSL     
+ RESULTADO EXAME 1              OBSERVACAO UNIDADE    _                         
+ RESULTADO EXAME 2                                                              
+ REPARO-EFETUADO                ENTREVISTA            _                         
+ SUBSEQUENTE:      E                                                   A-B:     
+ ARM ***   CAUSA-COM                                                   EIRA NAO 
+ DESPACHADO                CLIENTE CIENTE TAXA VISITA ( NAO )                   
+ OBS                       CLIENTE SOLICITA CREDITO   ( NAO )                   
+ -------------------                                                    TR580524
+                       PF3 = RETORNA                                   F9---PF10
+ CMD _______________                                                   PRAZ FIM 
+
+]
+[29/08/2016 11:58:27.491] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  2                                                                             
+ --                                                                             
+  1                       << OBSERVACAO ASSINANTE >>                            
+ LO                                                                             
+ CL    CLIENTE COM FALHA  DE AUTENTICAçãO////FEITA VARIAS VERIFICAçõES SEM SU   
+ SI    CESSO. CIENTE DO PRAZO EM ESPECIFICO PARA A VISITA TECNICA.              
+ BU                                                                             
+ DA                                                                             
+ AP                                                                             
+ ST                                                                             
+ CL                                                                             
+ OR                                                                             
+ RE                                                                             
+ RE                                                                             
+ RE                                                                             
+ RE                                                                             
+ SU                                                                             
+ AR                                                                             
+ DE                                                                             
+ OB   PF3= RETORNA  PF8= OBS UNID.  PF9= ENTREV                                 
+ --                                                                             
+                       PF3 = RETORNA                                   F9---PF10
+ CMD _______________                                                   PRAZ FIM 
+
+]
+[29/08/2016 11:58:27.881] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                I.G 
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:26            HISTORICO DE BD  31387925  ABERTO                CGS0371A 
+ LOCALIDADE-TERMINAL GNA  32551713   CONTRATO 1003533768           OCOR 1  / 1  
+ CLIENTE JOSE DO CARMO                                         CLIENTE-VIP NAO  
+ SIT 2 CAT 11 USO R   PRI C TIPO 0 TR-CHV                CATEG CATFRA MANTEN    
+ BUSCA             ESTACAO SAF  CAT-LP    INF-TRANS        VEL-TRANS            
+ DATA/HORA SOLICITACAO 28082016 2315  PERIODO   31082016 0800 CLIENTE-AVISADO   
+ APRAZADO S   PROMESSA 31082016 2359  ENCERRADO                     INDICADOR N 
+ STATUS-TERMINAL RE                                   OPERADORA                 
+ CLASSE INICIAL              N-INICIAL                EMPREITEIRA               
+ ORIGEM SEM CONTATO            DATA/HORA MUDANCA ORIGEM                         
+ REPARO-SOLICITADO SEM CONECTIVIDADE                        - 1 5 10 1 ADSL     
+ RESULTADO EXAME 1                                          -                   
+ RESULTADO EXAME 2                                          -                   
+ REPARO-EFETUADO                                            - 1                 
+ SUBSEQUENTE:      EX: RESIST. A-B:        CAPACIT. A-B:        TENSAO A-B:     
+ ARM ***   CAUSA-COMUM                EMPREITEIRA 0026 GERENCIA-EMPREITEIRA NAO 
+ DESPACHADO               BAIXA               IRLA           SOLIC              
+ OBS                                                                            
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA       OBS   DEF   CONEX ENC   APRAZ FIM 
+
+]
+[29/08/2016 11:58:28.271] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                 I.G
+ ----------------     ESTATISTICA DA FILA DE EXECUCAO OS/BD     ----------------
+  11:58:27                     DADOS DE FACILIDADE                      CGS2799A
+                                                                                
+ TELEFONE: GNA 32551713                                                         
+ ENDERECOS PONTA A ACG R AMADEUS MOZART Q 72 LT02 SETOR JARDIM LUZ              
+           PONTA B                                                              
+ VELOCIDADE ADSL1:                  VELOCIDADE ADSL2:                           
+ LOCAL ESTACAO CABO  PARP AD (*) PARS CAIXA PT/CAN  OBS      SITUACAO     CRT   
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                           (*) MICRO AREA       
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD                  HELP  MENU  VOLTA      TRONCO IPS END.CXA MAN   ADSL  FIM 
+
+]
+[29/08/2016 11:58:29.100] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                    
+ ----------------                                               ----------------
+  11:58:28               DADOS DE FACILIDADES PORTA ADSL               CGS1155A 
+  INS      LOC-TEL GNA  32551713                                        01 -  09
+ ENDERECOS PONTA A ACG R AMADEUS MOZART Q 72 LT02 SETOR JARDIM LUZ              
+           PONTA B                                                              
+                                                                                
+        NRO-PORTA(EQN) 00590300             NRO-PORTA-ADSL GNASF610-13/32  PPPoE
+ -------------------------------------------------------------------------------
+ N EST  EQ/CB  NRO P/C  VER PAR1 PAR2 PAR3 P E R   MARCA     MODELO     SERIE   
+ 1 SAF_ DSLAM_ ___ ____  41 _464 _320 ____ _ _ _ _________ __________ __________
+ 2 SAF_ DSLAM_ ___ ____ 000 ____ ____ ____ _ _ _ _________ __________ __________
+ 3 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 4 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 5 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 6 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 7 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 8 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+ 9 ____ ______ ___ ____ ___ ____ ____ ____ _ _ _ _________ __________ __________
+    MATRIZ GFR ( _ )                       TELA ( __ )                          
+ ---------------------------------------------------------------------- TR580524
+ OPCAO                PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD                  HELP  MENU  VOLTA                                     FIM 
+
+]

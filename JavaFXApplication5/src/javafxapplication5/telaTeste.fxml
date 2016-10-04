@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="511.0" prefWidth="740.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="511.0" fitWidth="749.0" layoutX="-9.0" pickOnBounds="true">
+         <image>
+            <Image url="@../../../../../../Pictures/1920x1200.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="222.0" fitWidth="177.0" layoutX="549.0" layoutY="36.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../Pictures/OIOI.0004.008.AF_.160105.Logomarca_RGB_Laranja_3E-700x495.png" />
+         </image>
+      </ImageView>
+      <Label layoutX="577.0" layoutY="14.0" text="Emissão em dd/mm/aaaa" />
+      <Label layoutX="500.0" layoutY="31.0" text="Período de dd/mm/aaaa a dd/mm/aaaa" />
+      <Label fx:id="lb_NomeCliente" layoutX="21.0" layoutY="19.0" text="Nome Completo do Cliente">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Label layoutX="23.0" layoutY="45.0" text="Endereço, número e complemento" />
+      <Label layoutX="23.0" layoutY="62.0" text="Referência" />
+      <Label layoutX="24.0" layoutY="78.0" text="Bairro - Cidade" />
+      <Label layoutX="24.0" layoutY="93.0" text="00000-000 - Estado" />
+      <Label layoutX="19.0" layoutY="132.0" text="Serviços utilizados">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </Label>
+      <Separator layoutX="16.0" layoutY="160.0" prefHeight="5.0" prefWidth="709.0" />
+      <Pane layoutX="15.0" layoutY="165.0" prefHeight="147.0" prefWidth="709.0">
+         <children>
+            <Label layoutX="1.0" layoutY="6.0" text="Oi 60" textFill="#152eabe8">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Label layoutX="651.0" layoutY="6.0" text="66,27" textFill="#1313ed">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+   </children>
+</Pane>

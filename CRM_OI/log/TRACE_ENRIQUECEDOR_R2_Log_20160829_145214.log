@@ -1,0 +1,270 @@
+[29/08/2016 14:52:14.844] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6227373
+         /////////                /////////////               Hora....: 14:52:13
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........(          ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 14:52:14.877] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                              Terminal: T6227373
+         /////////                /////////////               Hora....: 14:52:13
+        ///    ///                    ///                     Data....: 29/08/16
+       ///    ///                    ///                  ***       ***         
+      /////////      /////////      ///                 ****      ****          
+     ///    ///     ///    //      ///               ******     *****           
+    ///    ///     ///            ///                 ****   **  ***            
+   /////////      ///            ///                 ****  *********            
+                                                    ****      ****              
+                                                   ****      ****               
+                                                  ****      ****                
+          ACESSO AS APLICACOES ON LINE                                          
+                                                                                
+          Identifique-se fornecendo:                                            
+                                                                                
+         1. Matricula...........( TR580524 ) (LOGOFF para sair)                 
+         2. Senha...............(          )                                    
+         3. Codigo da aplicacao.(          ) (Opcional)                         
+                                                                                
+ Atencao: Em caso de problemas chame  0800-282-0031  (Service Desk).            
+          Qualquer duvida, por favor, entre em contato.                         
+ PF1=HELP                                                                       
+                                                                                
+                                                                                
+
+]
+[29/08/2016 14:52:15.634] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6227373 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    14:52:14 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( _________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 14:52:15.634] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+ TELE CENTRO SUL PARTICIPACOES S/A                        Terminal:    T6227373 
+ APLICACOES ON LINE DISPONIVEIS                           Date    :    29/08/16 
+                                                          Time    :    14:52:14 
+                                                          Usuario :    TR580524 
+ NUMERO CODIGO    M1 M2   NAVEG    NOME RESUMIDO                                
+     1  AC-SAC             PA1     Atendimento a Cliente                        
+     2  CR-SAC             PA1     atendimento a cliente                        
+     3  DF-SAC             PA1     Atendimento a Cliente                        
+     4  GO-SAC             PA1     Atendimento a Cliente                        
+     5  MS-SAC             PA1     Atendimento a Cliente                        
+     6  MT-SAC             PA1     Atendimento a Cliente                        
+     7  PR-SAC             PA1     Atendimento a Cliente                        
+     8  RO-SAC             PA1     Atendimento a Cliente                        
+     9  RS-SAC             PA1     Atendimento a Cliente                        
+    10  SC-SAC             PA1     Atendimento a Cliente                        
+                                                                                
+                                                                                
+ Informe NUMERO ou CODIGO:( 4________________ )                                 
+ Para finalizar digite LOGOFF                                                   
+                                                                                
+ PF1=Help   PF7=Pagina anterior   PF8=Proxima pagina                            
+                                                                                
+                                                                                
+
+]
+[29/08/2016 14:52:16.133] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  14:52:15                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 14:52:16.148] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE                  0 
+ ----------------                MENU PRINCIPAL                 ----------------
+  14:52:15                         FILIAL GO                           CG00000A 
+                                                                                
+                      A = ATENDIMENTO AO CLIENTE                                
+                      B = TELEFONIA CONVENCIONAL                                
+                      C = COMUNICACAO DE DADOS                                  
+                      D = TELEFONE DE USO PUBLICO                               
+                      H = SERVICOS DE TERCEIROS                                 
+                      I = FILAS DE TRABALHO                                     
+                      J = RELATORIOS                                            
+                      K = GERENCIA DE FACILIDADE DE REDE                        
+                      L = INDICADOR DESEMPENHO OPERACIONAL                      
+                      9 = ADMINISTRACAO DO SISTEMA                              
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+ OPCAO _              PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD BDEB____________ HELP  MENU  VOLTA                                     FIM 
+
+]
+[29/08/2016 14:52:16.523] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE            B.D.E.B 
+ ----------------            RE-AGENDAMENTO DE OS/BD            ----------------
+  14:52:15                                                             CGBDEB0A 
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+  Tipo Consulta: __ ( OS - Ordem de Serviço  BD - Bilhete de Defeito)           
+                                                                                
+  Numero da OS/BD: ________   Numero do BA:                                     
+                                                                                
+  Período agendamento: Inicio:                :     Fim:                :       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA REAGEN                              FIM 
+
+]
+[29/08/2016 14:52:16.523] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE            B.D.E.B 
+ ----------------            RE-AGENDAMENTO DE OS/BD            ----------------
+  14:52:15                                                             CGBDEB0A 
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+  Tipo Consulta: OS ( OS - Ordem de Serviço  BD - Bilhete de Defeito)           
+                                                                                
+  Numero da OS/BD: ________   Numero do BA:                                     
+                                                                                
+  Período agendamento: Inicio:                :     Fim:                :       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA REAGEN                              FIM 
+
+]
+[29/08/2016 14:52:16.538] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+                                                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE            B.D.E.B 
+ ----------------            RE-AGENDAMENTO DE OS/BD            ----------------
+  14:52:15                                                             CGBDEB0A 
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+  Tipo Consulta: OS ( OS - Ordem de Serviço  BD - Bilhete de Defeito)           
+                                                                                
+  Numero da OS/BD: 51094069   Numero do BA:                                     
+                                                                                
+  Período agendamento: Inicio:                :     Fim:                :       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA REAGEN                              FIM 
+
+]
+[29/08/2016 14:52:16.918] [INFO] {Model.TerminalWrapper.printScreenContent() 155} [main] - [
+ ORDEM DE SERVICO NAO ENCONTRADA                                                
+  29/08/2016          SAC - SISTEMA DE ATENDIMENTO A CLIENTE            B.D.E.B 
+ ----------------            RE-AGENDAMENTO DE OS/BD            ----------------
+  14:52:15                                                             CGBDEB0A 
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+  Tipo Consulta: OS ( OS - Ordem de Serviço  BD - Bilhete de Defeito)           
+                                                                                
+  Numero da OS/BD: 51094069   Numero do BA:                                     
+                                                                                
+  Período agendamento: Inicio:                :     Fim:                :       
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+ ---------------------------------------------------------------------- TR580524
+                      PF1---PF2---PF3---PF4---PF5---PF6---PF7---PF8---PF9---PF10
+ CMD ________________ HELP  MENU  VOLTA REAGEN                              FIM 
+
+]
